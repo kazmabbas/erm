@@ -19,13 +19,6 @@
            "description": "Your Telegram ID ",
            "value": ""        
 	   "required": true
-	},
-	"buildpacks": [
-		{
-			"url": "heroku/python"
-		}
-	]
-}
-
-
-
+	  }
+     }
+} 
