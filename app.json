@@ -1,24 +1,23 @@
 {
-	"name": "AL Quran",
-	"description": "بوت تصفح القران الكريم",
-	"logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
-	"keywords": [
-		"telegram",
-		"bot",
-		"python",
-		"telethon"
-	],
-	"repository": "https://github.com/modymesourceze/AL-QURAN",
+    "name": "ELHYBA",
+    "description": "بوت تجميع نقاط",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/fb62d70ce09f4a78dfc86.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
     "env": {
+        "IDe": {
+            "description": "ايـدي الـمـطور",
+            "value": "",
+            "required": true
+        },
         "ELHYBA": {
-            "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""          
-	    "required": true
-	   },
-	     "IDe": {
-           "description": "Your Telegram ID ",
-           "value": ""        
-	   "required": true
-	  }
-     }
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+    }
+  }
 } 
