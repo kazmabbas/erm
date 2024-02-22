@@ -12,11 +12,13 @@
     "env": {
         "ELHYBA": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""            
+            "value": ""          
+	    "required": true
 	   },
 	     "IDe": {
            "description": "Your Telegram ID ",
-           "value": ""            
+           "value": ""        
+	   "required": true
 	},
 	"buildpacks": [
 		{
