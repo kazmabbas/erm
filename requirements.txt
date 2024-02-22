@@ -1,0 +1,14 @@
+telebot
+requests
+random
+webbrowser
+os
+time
+requests
+webbrowser
+sys
+as
+n
+random
+webbrowser
+threading
